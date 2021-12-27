@@ -1,0 +1,113 @@
+Hello world,
+
+So after a long time we are today going to start our new session or live practical session of HTML course.
+You might thinking why this take so long right. It is becuase we create our whole new setup and we started 
+to create new projects and whole content so now videos will come back to back.
+
+So Lets get started to our HTML course for beginner and for developers. 
+
+In todyas topic we are going to learn :
+ 1) Introduction
+ 2) Usefull terms & Definations
+ 3) Starting with HTML
+ 4) Most basic web page
+ 5) What we learn
+ 
+ Without wasting our further time lets dive into it.
+ 
+ In  your day to day life when you sufferr on web browser you might think that how this all things work and 
+ how this all things created.
+ 
+ To know this lets know little bit history of HTML. In Late 1991 Sir Tim Berners-Lee created HTML page.
+ So thank him for this creation. Due too his creation we are able to cheat in our onlinw exam.(Jokes Apart)
+ 
+ Now HTML is not an name html has fulform Hyper Text Markup Language. It is used to create websites and CSS 
+ (Cascading StyleSheet) which helps to give html page an ceative look and at last JS which stand for Java Script 
+ which create our website dynamic.
+ 
+ Now you know little bit about HTML. So lets move further. 
+ 
+ Useful terms
+ 
+ Now lets see dome of the usefull terms which we use through out the course.
+ HTML:
+    Stands for HYPER TEXT MARKUP LANGUAGE  it used to create web pages.
+CSS:
+    Stand for Cascading Style Sheet. It use to give style in our web page.
+JS:
+    Java Script used to give dynamic look to webpage.
+HTTP:
+    Stand for Hyper TEXT Transfer Protocol. Use to locate our web page.
+HTTPS:
+    Same as HTTP but in secure way.
+URL:
+    Stand for Universal Resorce locator. It is use to give our website an domain name.
+Tags:
+    An HTML tag is commonly defined as a set of characters constituting a formatted command for a Web page.
+    
+Staring with HTML
+
+Now you have very basic knowlegde to dive into HTML world. So welcome to HTML world.
+
+Now lets dive into editor but before that you may have question that where to wirte the HTML 
+code right. Don't worry we have a way If you are using laptop, computer or PC than you already
+have editor. 
+
+Yes you heared it right you already have editor that is Notepad. but notepad is used for basic 
+webpage only it dosen't support high level tags used in HTML. 
+
+And if you are using phone or tablet than go to onlinegdb.com it provides you online compiling
+option for most od languages you can practice on it. 
+
+For advance coding I might suggest 2 software 1st is Visual Studio Code and another is Dreamweaver
+
+which free open source software.
+
+In later course I will se you those editors.
+
+Now lets go to the notepad
+
+So this is my default screen of notepad so lets started our Most basic and your first page of HTML
+
+I already had uploaded a video for most basic page of HTML in youtube link in Description and On youtube cards.
+
+So HTML is basically an sandwich type coding langugae and it is not case-sensetive language. I said sandwhich
+type that means the HTML page contain some tags which when open must be closed and content is sandwiched
+between this tags.
+
+so type the same you will understand the thing.
+
+so first we have to open html so type in <html> and closed it simultaneously so that you dont forget to close the 
+tag. Next is Head section of the webpage which usually dont see in the webpage but it use to give location of
+scripts, stylesheet and even title of the webpage. And closed it also simultaneously now in head section you can type 
+title of the web page which has a tag of <title>...</title> 
+
+Here as it is the first web page.I will name it Fist web Page.
+
+Next is body which you can also say visible part of HTML webpage. In the body section what ever you write that will 
+be displayed in the web page. for example if I write the Heading usin <h1>...</h1> tag It will diplay heading of in 
+the webpage.
+
+Here I am writing First Page as heading.
+
+Now there is upto 6 types of heading in which h1 is for most important heading and h6 is for least important heading.
+
+To write Paragraph in the webpage <p>...</p> (P) tag is used. Like when I write any thing I.E
+This ia an sample paragraph it dosen't have any use
+it is just for example.
+
+now let save it and watch he output. To save it just press ctrl+s then name it and use .html extension  if you forget
+.html extension than it save as text file so save it as .html extension.
+
+Now lets open in the browser. So as you can see and I said earlier the head section we write in the editor doesn't show here 
+but the body section is appear and also you may seen some difference that in the paragraph after any use word I useed new line 
+but in webpage it dosen't seem here so that is becuase HTML editors ignores white spaces. So to add a line break you have to use 
+<br> tag someting like <br>. But this dosen't contain Closing tag you have to note that.
+
+Now it is working Fine right. So this is the most basic web page ever and intorducation to HTML If you enjoy the video just hit like
+share and subscribe and don't forget to comment it out that how do you like that. 
+
+And just comment us what other Course you want to what out with us.
+
+Thank you this is Navin sharma Edu-Moon signing-off.
+See you int he next video.
